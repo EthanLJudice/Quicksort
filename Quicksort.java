@@ -117,4 +117,4 @@ public class Quicksort
         printArray(TC8);
     }
 }
-/*This code is contributed by Rajat Mishra */
+/*This qucksort code is contributed by Rajat Mishra */
